@@ -11,9 +11,9 @@ color:darkred}
 .name {
     font-weight: bold;
 }
-.gina{font-style:oblique; font-color:pink;}
-.hedvig{font-style:italic; font-color:darkblue;}
-.hjalmar{font-style:normal;font-color:green}
+.gina{font-style:oblique; color:pink;}
+.hedvig{font-style:italic; color:darkblue;}
+.hjalmar{font-style:normal; color:green}
 
-.q{font-family: Verdana,Geneva;
+.q{font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size:medium;}
