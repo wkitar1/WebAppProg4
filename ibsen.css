@@ -11,6 +11,7 @@ color:darkred}
 .name {
     font-weight: bold;
 }
+.name:hover{text-shadow:2px 2px 5px rgb(192, 65, 86);}
 .gina{font-style:oblique; color:pink;}
 .hedvig{font-style:italic; color:darkblue;}
 .hjalmar{font-style:normal; color:green}
