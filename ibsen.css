@@ -1,0 +1,19 @@
+.speech{font-family: Arial, sans-serif;
+     font-size:17px; 
+     color:black;}
+
+.direction{background-color: yellow;}
+
+.direction:hover{background-color: beige;
+color:darkred}
+
+
+.name {
+    font-weight: bold;
+}
+.gina{font-style:oblique; font-color:pink;}
+.hedvig{font-style:italic; font-color:darkblue;}
+.hjalmar{font-style:normal;font-color:green}
+
+.q{font-family: Verdana,Geneva;
+font-size:medium;}
