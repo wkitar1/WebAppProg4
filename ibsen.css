@@ -17,3 +17,9 @@ color:darkred}
 
 .q{font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size:medium;}
+
+table{border:solid 3px;border-collapse:separate;text-align:center;
+border-color:aquamarine;
+margin: 20px auto; border-spacing:10px }
+
+th, td{padding: 12px 15px;}
